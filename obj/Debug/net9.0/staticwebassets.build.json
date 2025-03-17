@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "e6KHXnxJqmIuPqTidEGRhn+nX4LGAm4aXsf/vL42Z1c=",
+  "Source": "ToDoGrpc",
+  "BasePath": "_content/ToDoGrpc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
